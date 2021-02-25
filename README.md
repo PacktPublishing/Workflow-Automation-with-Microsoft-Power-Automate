@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/workflow-automation-with-microsoft-power-automate/9781839213793?utm_source=github&utm_medium=repository&utm_campaign=9781839213793"><img src="https://static.packt-cdn.com/products/9781839213793/cover/smaller" alt="Workflow Automation with Microsoft Power Automate" height="256px" align="right"></a>
 
-This is the code repository for [Workflow Automation with Microsoft Power Automate](https://www.packtpub.com/product/workflow-automation-with-microsoft-power-automate/9781839213793?utm_source=github&utm_medium=repository&utm_campaign=9781839213793), published by Packt.
+This is the repository for [Workflow Automation with Microsoft Power Automate](https://www.packtpub.com/product/workflow-automation-with-microsoft-power-automate/9781839213793?utm_source=github&utm_medium=repository&utm_campaign=9781839213793), published by Packt.
 
 **Achieve digital transformation through business automation with minimal coding**
 
